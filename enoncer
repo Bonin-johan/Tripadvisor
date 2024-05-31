@@ -1,0 +1,27 @@
+
+
+
+// Le main
+// Le main se divise en plusieurs parties :
+
+// le bloc sous le <header> est composé :
+
+// d'un <h1>
+// d'une navigation (7 blocs placés sur une ligne)
+// de photos : 1 grande photo à gauche, 2 petites photos à droite
+// d'une navigation sous les photos
+// d'un bloc divisé en 2 colonnes : une première colonne composée 
+// d'un <h2> et d'un texte, une deuxième colonne composée
+// d'un <h3>, d'un texte, d'un bouton et d'une image
+// après le bloc situé sous le <header>,
+//  on trouve une série de <section> : chaque section est composée 
+//  d'un <h2> et de plusieurs lignes ou colonnes.
+
+// Le footer
+// Le <footer> est composé de plusieurs textes et de 2 <input>.
+
+// Recommandations
+// Vous voulez créer une page dédiée à une autre ville ?
+//  Faites-vous plaisir, choisissez ce que vous voulez à l'aide du moteur de recherche.
+// Pour récupérer les images, afficher la console (option ⌥ + command ⌘ + i), cliquez sur Network, sélectionnez l'onglet Img puis rafraîchissez la page (command ⌘ + R). Les images apparaîtront sous forme de liste, sauvegardez celles dont vous avez besoin. Slidez vers le bas du site pour en charger plus (le chargement est dynamique).
+// Le site TripAdvisor utilise ses propres polices de caractères et sa propre police d'icônes. Nous verrons comment les récupérer et les utiliser.
